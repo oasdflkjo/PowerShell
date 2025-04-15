@@ -4,8 +4,6 @@
 # winget install fzf
 # winget winget install Neovim.Neovim
 # winget winget install --id=Neovide.Neovide -e
-# TODO 
-# install nvim themes and tools torugh . files
 
 function edit { neovide $PROFILE }
 function b { Set-Location .. }
